@@ -6,7 +6,7 @@ def test_add():
     assert add('space', 'ship') == 'spaceship'
 
 def subtract(a, b):
-    return a + b  # <--- fix this in step 7
+    return a - b  # <--- fix this in step 7
 
 # uncomment the following test in step 5
 def test_subtract():
